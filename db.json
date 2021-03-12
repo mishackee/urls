@@ -1,3 +1,11 @@
-[
-   "blabla.cc", "fff", "sadad"
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
